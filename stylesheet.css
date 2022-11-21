@@ -70,10 +70,6 @@ a {
 
 .result {
   background-color: #239b76;
-  margin-bottom: 50px;
-  margin-left: 100px;
-  margin-right: 100px;
-  width: 50px;
   display:inline-block;
   text-align: center;
 }
