@@ -135,6 +135,9 @@ header {
   width: 25%;
 }
 
+img{
+  width: 70px;
+}
 .text-contents {
   width: 80%;
   display: inline-block;
