@@ -136,7 +136,8 @@ header {
 }
 
 img{
-  width: auto;
+  width: 100px;
+  text-align: center;
 }
 .text-contents {
   width: 80%;
