@@ -63,16 +63,19 @@ a {
 .signup {
   background-color: #239b76;
   text-align: center;
+  width: 60%;
 }
 
 .result {
   background-color: #239b76;
   display:inline-block;
   text-align: center;
+  width: 60%;
 }
 
 .btn {
   padding: 8px 24px;
+  width: 60%;
   color: white;
   display: inline-block;
   opacity: 0.8;
