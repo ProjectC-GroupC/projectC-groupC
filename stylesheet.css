@@ -65,12 +65,14 @@ section{
 }
 
 .signup {
+  padding: 8px;
   background-color: #239b76;
   text-align: center;
   width: 60%;
 }
 
 .result {
+  padding: 8px;
   background-color: #239b76;
   display:inline-block;
   text-align: center;
